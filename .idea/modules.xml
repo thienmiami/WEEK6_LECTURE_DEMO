@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CSC120_FALL2024.iml" filepath="$PROJECT_DIR$/CSC120_FALL2024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1_Lab0_Monday_08192024/Week1_Lab0_Monday_08192024.iml" filepath="$PROJECT_DIR$/Week1_Lab0_Monday_08192024/Week1_Lab0_Monday_08192024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2_LAB1_Monday_08262024/Week2_LAB1_Monday_08262024.iml" filepath="$PROJECT_DIR$/Week2_LAB1_Monday_08262024/Week2_LAB1_Monday_08262024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week3_LAB2_Monday_09022024/Week3_LAB2_Monday_09022024.iml" filepath="$PROJECT_DIR$/Week3_LAB2_Monday_09022024/Week3_LAB2_Monday_09022024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week4_LAB3_Monday_09092024/Week4_LAB3_Monday_09092024.iml" filepath="$PROJECT_DIR$/Week4_LAB3_Monday_09092024/Week4_LAB3_Monday_09092024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week5_LAB4_Monday_09162024/Week5_LAB4_Monday_09162024.iml" filepath="$PROJECT_DIR$/Week5_LAB4_Monday_09162024/Week5_LAB4_Monday_09162024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week6_LAB5_Monday_09232024/Week6_LAB5_Monday_09232024.iml" filepath="$PROJECT_DIR$/Week6_LAB5_Monday_09232024/Week6_LAB5_Monday_09232024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week6_Lecture/Week6_Lecture.iml" filepath="$PROJECT_DIR$/Week6_Lecture/Week6_Lecture.iml" />
+    </modules>
+  </component>
+</project>
